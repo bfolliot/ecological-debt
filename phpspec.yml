@@ -1,0 +1,6 @@
+suites:
+    ecological_debt_suite:
+        namespace: EcologicalDebt
+        psr4_prefix: EcologicalDebt
+extensions:
+    Memio\SpecGen\MemioSpecGenExtension: ~
